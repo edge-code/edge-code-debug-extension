@@ -1,0 +1,12 @@
+{
+    "name": "edge-code-debug-extension",
+    "description": "Adds the Debug menu to Edge Code and exposes debugging features like language switching, opening the developer console, and debugging the nodeJS server. ",
+    "version": "0.1.0",
+    "keywords": [".css", ".html", ".js"],
+    "homepage": "https://github.com/ryanstewart/edge-code-debug-extension",
+    "bugs": "https://github.com/adobe/brackets/issues",
+    "repository" : { 
+        "type" : "git",
+        "url" : "https://github.com/ryanstewart/edge-code-debug-extension"
+    }
+}
